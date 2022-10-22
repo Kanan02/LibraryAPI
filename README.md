@@ -9,13 +9,13 @@ This project is built using **code first** approach so it better to firstle remo
 and rerun:
 ### `Add-Migration Initial`
 
-then run the project.
+then run the project.__
 
-Except default technologies such as **.net core**, **.NET core**, **EF core**, **MSSQL** other technologies were used:
-**Lazy Loading**
-**AutoMapper**
+Except default technologies such as **.net core**, **.NET core**, **EF core**, **MSSQL** other technologies were used:__
+**Lazy Loading**__
+**AutoMapper**__
 
-Here some other projects for you to check: 
-[https://github.com/Kanan02/ToDoListWebApi](https://github.com/Kanan02/ToDoListWebApi)
-[https://github.com/Kanan02/RabbitMQUserWebapi](https://github.com/Kanan02/RabbitMQUserWebapi)
-[https://github.com/Kanan02/MyMonefyApp_WPF_MVVM](https://github.com/Kanan02/MyMonefyApp_WPF_MVVM)
+Here some other projects for you to check: __
+[https://github.com/Kanan02/ToDoListWebApi](https://github.com/Kanan02/ToDoListWebApi)__
+[https://github.com/Kanan02/RabbitMQUserWebapi](https://github.com/Kanan02/RabbitMQUserWebapi)__
+[https://github.com/Kanan02/MyMonefyApp_WPF_MVVM](https://github.com/Kanan02/MyMonefyApp_WPF_MVVM)__
