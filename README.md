@@ -1,7 +1,7 @@
 # Library API
 
 This is Library api with 3 models (Author,Genre and Book) and 2 controllers (BooksController and AuthController).
-This project can be extendted (AuthorController and GenreController can be added) 
+This project can be extended (AuthorController and GenreController can be added) 
 
 ## Technologies
 
