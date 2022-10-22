@@ -22,7 +22,6 @@ namespace LibraryAPI.Controllers
         }
 
         [HttpPost]
-        [Route("login")]
         public async Task<IActionResult> Login([FromBody] LoginDto dto)
         {
             var user = await _userManager.FindByNameAsync(dto.Username);
@@ -48,7 +47,6 @@ namespace LibraryAPI.Controllers
         }
 
         [HttpPost]
-        [Route("register")]
         public async Task<IActionResult> Register([FromBody] RegisterDto dto)
         {
             var userExists = await _userManager.FindByNameAsync(dto.Username);
