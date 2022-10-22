@@ -28,7 +28,7 @@ Then you can login using your credentials:
 
 When you will get token just put it in **Authorize** section of SwaggerUI like:
 
-### Bearer your_token
+### `Bearer your_token`
 
 Now you can call requests from Swagger.
 
