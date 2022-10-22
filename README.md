@@ -14,9 +14,9 @@ then run the project.
 
 Except default technologies such as **.NET core**, **EF core**, **MSSQL** other technologies were used:
 
-**Lazy Loading** 
+-**Lazy Loading** 
 
-**AutoMapper** 
+-**AutoMapper** 
 
 
 Here some other projects for you to check:
