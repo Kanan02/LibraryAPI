@@ -5,14 +5,14 @@ This project can be extendted (AuthorController and GenreController can be added
 
 ## Technologies
 
-This project is built using **code first** approach so it better to firstle remobe Migrations folder
+This project is built using **CODE FIRST** approach so it better to firstle remobe Migrations folder
 and rerun:
 ### `Add-Migration Initial`
 
 then run the project.
 
 
-Except default technologies such as **.net core**, **.NET core**, **EF core**, **MSSQL** other technologies were used:
+Except default technologies such as **.NET core**, **EF core**, **MSSQL** other technologies were used:
 
 **Lazy Loading** 
 
