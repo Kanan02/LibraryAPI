@@ -20,7 +20,7 @@ Except default technologies such as **.NET core**, **EF core**, **MSSQL** other 
 
 ## Usage
 
-When the project is running you can do a **POST** request for registration to Authorize and use BooksController.
+When the project is running you can do a **POST** request for registration to Authorize (only restriction is password length>=5) and use BooksController.
 ### `/api/Auth/Register`
 
 Then you can login using your credentials:
