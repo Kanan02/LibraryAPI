@@ -5,7 +5,7 @@ This project can be extendted (AuthorController and GenreController can be added
 
 ## Technologies
 
-This project is built using **CODE FIRST** approach so it better to firstle remobe Migrations folder
+This project is built using **CODE FIRST** approach so it better to firstle remove Migrations folder
 and rerun:
 ### `Add-Migration Initial`
 
